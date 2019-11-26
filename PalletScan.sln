@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalletScanMobile", "PalletScanMobile\PalletScanMobile.csproj", "{B9380DFC-B168-40DA-9EAF-12D696125B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalletScanMobileCE7", "PalletScanMobileCE7\PalletScanMobileCE7.csproj", "{B8D8B127-87D4-4A52-926A-F2A611B2AFF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalletScanDesktop", "PalletScanDesktop\PalletScanDesktop.csproj", "{BCA988D4-1EE1-4F20-8695-8F1C78DD320D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9380DFC-B168-40DA-9EAF-12D696125B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9380DFC-B168-40DA-9EAF-12D696125B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9380DFC-B168-40DA-9EAF-12D696125B2D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B9380DFC-B168-40DA-9EAF-12D696125B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9380DFC-B168-40DA-9EAF-12D696125B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9380DFC-B168-40DA-9EAF-12D696125B2D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B8D8B127-87D4-4A52-926A-F2A611B2AFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D8B127-87D4-4A52-926A-F2A611B2AFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D8B127-87D4-4A52-926A-F2A611B2AFF9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B8D8B127-87D4-4A52-926A-F2A611B2AFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA988D4-1EE1-4F20-8695-8F1C78DD320D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA988D4-1EE1-4F20-8695-8F1C78DD320D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA988D4-1EE1-4F20-8695-8F1C78DD320D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
