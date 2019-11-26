@@ -20,7 +20,6 @@ namespace PalletScanMobile
     public enum Option
     {
         LastSyncId
-
     }
 
     public enum PalletMatch
